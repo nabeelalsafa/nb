@@ -27,6 +27,19 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+    text-align: justify;
+}
+p1 {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+    text-align: justify;
+}
+p2 {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+    text-align: justify;
 }
 footer {
     border-top: 1px solid #d5d5d5;
